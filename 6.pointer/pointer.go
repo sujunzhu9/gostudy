@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-/*
+/*这种情况下不交换
 func swap(a int, b int) {
 	var temp int
 	temp = a
